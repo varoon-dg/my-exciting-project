@@ -19,3 +19,10 @@ The Country capitals API can be used to query the country names when the capital
 * Flask version 1.0.4
 * ASGI server 6.5
 * Registered API key
+
+
+```
+$ cd lorem_ipsum
+$ npm install
+$ npm start
+```
