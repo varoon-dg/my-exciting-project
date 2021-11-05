@@ -11,3 +11,6 @@ build/
 
 ## All CSV files anywhere in the repository
 *.csv
+
+## Ignores the CLEAN PR request template file
+clean_pr.temp
